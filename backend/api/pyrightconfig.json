@@ -1,0 +1,11 @@
+{
+  "include": ["."],
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "extraPaths": [
+    "C:\\Python313\\Lib\\site-packages"
+  ]
+}
